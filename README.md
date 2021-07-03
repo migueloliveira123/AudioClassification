@@ -11,3 +11,7 @@ Given this information, we have defined 5 goals for our project. Three of them b
 - Processing audio data into suitable inputs for NN learning: during the first part of the work we aim to explore and process the audio data in order to clean it, normalize it and transform it into a suitable input format for both types of Neural Network models.
 - Applying base model configurations based on bibliography: we will then make a basic network configu- ration based on bibliography analysis of classifications tasks similar to our own.
 - Comparing the performance of CNN and RNN: using the defined configurations, we will proceed to com- pare the prediction performance metrics for both types of Neural Networks (CNN vs RNN), while maintaining as many parameters as possible in order to perform an unbiased comparison.
+
+### Authors
+Duarte Balata
+Miguel Oliveira
